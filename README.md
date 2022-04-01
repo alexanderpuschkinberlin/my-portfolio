@@ -1,11 +1,11 @@
 ## My-Portfolio
 
-Link to deployed application =>
+Link to deployed application => https://alexanderpuschkinberlin.github.io/my-portfolio/
 Link to the github Repo => https://github.com/alexanderpuschkinberlin/my-portfolio
 
-## Screenshot / Demo
+## Screenshot
 
-![Demo](./assets/img/app-demo-gif.gif)
+![Screenshot](./public/images/screenshot.png)
 
 ## Table of Contents
 
