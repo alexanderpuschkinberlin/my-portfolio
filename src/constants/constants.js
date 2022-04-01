@@ -23,13 +23,8 @@ export const projects = [
     title: "Pocket Card App",
     description:
       "Medical practitioners oftentimes use pocket cards to quickly access information on guidelines or manuels of complex medical devices. Now instead of carrieng those printed cards we decided to digitize them in a app :)",
-    image: "/images/3.jpg",
-    tags: [
-      "Javascript",
-      "jQuery",
-      "Materialize CSS",
-      "API Access of Covid Data",
-    ],
+    image: "/images/3.png",
+    tags: ["Javascript", "jQuery", "Materialize CSS", "API"],
     source: "https://github.com/alexanderpuschkinberlin/Pocket-Card-App",
     visit:
       "https://alexanderpuschkinberlin.github.io/Pocket-Card-App/index.html",
@@ -37,19 +32,12 @@ export const projects = [
   },
   {
     title: "Tech Blog",
-    description: "",
-    image: "/images/4.jpg",
+    description:
+      "This full stack application is a blog system. Users can register to be able to post content and comment on existing posts. A database is used to store all relevant data.",
+    image: "/images/4.png",
     tags: ["Javascript", "MySQL2", "Express-Handlebars", "bcrypt"],
     source: "https://github.com/alexanderpuschkinberlin/tech-blog",
     visit: "https://evening-waters-69184.herokuapp.com/",
     id: 3,
   },
-];
-
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
 ];
