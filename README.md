@@ -1,7 +1,8 @@
 ## My-Portfolio
 
-Link to deployed application => https://alexanderpuschkinberlin.github.io/my-portfolio/
-Link to the github Repo => https://github.com/alexanderpuschkinberlin/my-portfolio
+[Link to deployed application](https://alexanderpuschkin.herokuapp.com/)
+
+[Link to the github Repo](https://github.com/alexanderpuschkinberlin/my-portfolio)
 
 ## Screenshot
 
